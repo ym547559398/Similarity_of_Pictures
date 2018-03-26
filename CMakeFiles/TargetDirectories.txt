@@ -1,0 +1,3 @@
+/home/d09/CLionProjects/shanxi_project/CMakeFiles/rebuild_cache.dir
+/home/d09/CLionProjects/shanxi_project/CMakeFiles/edit_cache.dir
+/home/d09/CLionProjects/shanxi_project/CMakeFiles/match.dir
